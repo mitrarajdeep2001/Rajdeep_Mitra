@@ -27,10 +27,13 @@ Toastify, React-Loader-Spinner and Firebase.
 - Deployed Link: https://typerrcom.netlify.app/
 - Repository: [link-to-repo](https://github.com/username/project1)
 
-### Project 2: Weather App
+### Project 2: TechBuzz − A Tech News Provider App
 
-Description: A weather application that provides real-time weather forecasts for a given location. It uses the OpenWeatherMap API to fetch weather data and displays it in a user-friendly interface.
-
+- Developed a tech news provider app where user can search news for any tech terms. Increased reading habits
+by 50%.
+- Tech Stacks Used − React, React Hooks - useEffect, useReducer, useContext, Material UI,
+React-Loader-Spinner.
+Deployed Link: https://techbuzz01.netlify.app/
 Repository: [link-to-repo](https://github.com/username/project2)
 
 ### Project 3: Blogging Platform
