@@ -25,7 +25,7 @@ their results for enhanced performance insights.
 - Tech Stacks Used − React, React-Router-DOM, Styled Components, Material UI and Icons, Chartjs,
 Toastify, React-Loader-Spinner and Firebase.
 - Deployed Link: https://typerrcom.netlify.app/
-- Repository: [link-to-repo]((https://github.com/mitrarajdeep2001/typing-speed-test-app))
+- Repository: [Link](https://github.com/mitrarajdeep2001/typing-speed-test-app)
 
 ### Project 2: TechBuzz − A Tech News Provider App
 
@@ -34,13 +34,13 @@ by 50%.
 - Tech Stacks Used − React, React Hooks - useEffect, useReducer, useContext, Material UI,
 React-Loader-Spinner.
 - Deployed Link: https://techbuzz01.netlify.app/
-- Repository: [link-to-repo](https://github.com/mitrarajdeep2001/tech_news_app)
+- Repository: [Link](https://github.com/mitrarajdeep2001/tech_news_app)
 
 ### Project 3: Blogging Platform
 
 Description: A full-stack blogging platform built with Django. Users can create accounts, write and publish blog posts, and interact with other users through comments.
 
-Repository: [link-to-repo](https://github.com/username/project3)
+Repository: [Link](https://github.com/username/project3)
 
 ## Skills
 
