@@ -36,19 +36,15 @@ React-Loader-Spinner.
 - Deployed Link: https://techbuzz01.netlify.app/
 - Repository: [Link](https://github.com/mitrarajdeep2001/tech_news_app)
 
-### Project 3: Blogging Platform
+### Project 3: Shopper'sHub - An Ecommerce App
 
-Description: A full-stack blogging platform built with Django. Users can create accounts, write and publish blog posts, and interact with other users through comments.
-
-Repository: [Link](https://github.com/username/project3)
-
-## Skills
-
-- Programming Languages: JavaScript (ES6+)
-- Frontend: HTML, CSS, React, Redux, Tailwind, Styled Components, Material UI
-- Databases: Firebase
-- Version Control: Git
-- Tools: Visual Studio Code, Postman, Netlify
+- Developed an ecommerce web app with more than 20 products listed where users can buy their favourite
+products from the store.
+- It has 3 major functionalities such as search bar, add-to-cart and payment gateway integration.
+- Tech Stacks Used − React, React Hooks (useEffect, useState, useContext), React-Router-DOM, SASS,
+Auth0, Razorpay Payment Gateway, React-Loader-Spinner and React-Toastify.
+- Deployed Link: https://shoppershub2023.netlify.app/
+-  Repository: [Link](https://github.com/username/project3)
 
 I am always eager to learn new technologies and expand my skillset.
 
